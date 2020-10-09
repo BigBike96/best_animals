@@ -1,3 +1,4 @@
 Dog
 Deer
 Rabbit
+Rat
