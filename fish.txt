@@ -2,3 +2,4 @@ guppy
 minnow
 bass
 trout
+catfish
